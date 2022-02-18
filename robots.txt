@@ -1,0 +1,4 @@
+Sitemap: https://youngquan.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: youngquan.github.io
