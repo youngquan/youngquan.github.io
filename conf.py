@@ -1406,6 +1406,16 @@ WARN_ABOUT_TAG_METADATA = False
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
 GLOBAL_CONTEXT = {}
+COMMENT_SYSTEM_ID = "youngquan / youngquan.github.io"
+GLOBAL_CONTEXT['utterances_config'] = {
+        "src":"https://utteranc.es/client.js",
+        "issue-term":"pathname",
+        "label":"✨💬✨",
+        "theme":"github-light",
+        "crossorigin":"anonymous",
+        "async":True
+}
+
 
 # Add functions here and they will be called with template
 # GLOBAL_CONTEXT as parameter when the template is about to be
