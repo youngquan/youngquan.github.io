@@ -1,4 +1,7 @@
 {
     "restructuredtext.linter.disabled": true,
-    "restructuredtext.preview.sphinx.disabled": true
+    "restructuredtext.preview.sphinx.disabled": true,
+    "esbonio.server.enabled": true,
+    "esbonio.sphinx.confDir": "",
+    "restructuredtext.syntaxHighlighting.disabled": true
 }
