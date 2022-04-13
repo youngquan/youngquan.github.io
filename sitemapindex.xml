@@ -6,19 +6,47 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://youngquan.github.io/categories/cat_fei-ji-zhu.xml</loc>
+  <lastmod>2022-04-13T03:56:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://youngquan.github.io/categories/cat_ji-zhu.xml</loc>
+  <lastmod>2022-04-13T03:56:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://youngquan.github.io/categories/gong-zuo-zong-jie.xml</loc>
+  <lastmod>2022-04-13T03:56:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://youngquan.github.io/categories/office.xml</loc>
+  <lastmod>2022-04-13T03:56:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://youngquan.github.io/categories/ren-sheng-gan-wu.xml</loc>
+  <lastmod>2022-04-13T03:56:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://youngquan.github.io/categories/ren-sheng-si-kao.xml</loc>
+  <lastmod>2022-04-13T03:56:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://youngquan.github.io/categories/shu.xml</loc>
+  <lastmod>2022-04-02T08:17:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://youngquan.github.io/galleries/demo/rss.xml</loc>
-  <lastmod>2022-02-18T16:44:00Z</lastmod>
+  <lastmod>2022-04-13T03:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://youngquan.github.io/galleries/rss.xml</loc>
-  <lastmod>2022-02-18T16:44:00Z</lastmod>
+  <lastmod>2022-04-13T03:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://youngquan.github.io/rss.xml</loc>
-  <lastmod>2022-02-18T16:44:00Z</lastmod>
+  <lastmod>2022-04-13T03:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://youngquan.github.io/sitemap.xml</loc>
-  <lastmod>2022-02-18T16:44:00Z</lastmod>
+  <lastmod>2022-04-13T03:56:00Z</lastmod>
  </sitemap>
 </sitemapindex>
