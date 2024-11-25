@@ -25,4 +25,4 @@
 
 所以，我想我也可以是祝无双。不在的5年，不过就是祝无双不在的那13集。
 
-![me at pycon china 2019](/images/me_at_pychina_2019.jpg "Magic Gardens")
+![me at pycon china 2019](/images/me_at_pychina_2019.jpg "Me at pycon china 2019")
