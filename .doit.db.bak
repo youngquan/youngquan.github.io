@@ -112,7 +112,7 @@
 'render_galleries:output\\galleries\\demo\\rss.xml', (860672, 10062)
 'render_galleries', (152064, 56)
 'render_pages:output\\pages\\social_buttons\\index.html', (693760, 9668)
-'sitemap:output\\sitemap.xml', (1077248, 9697)
+'sitemap:output\\sitemap.xml', (1077248, 9700)
 'sitemap:output\\sitemapindex.xml', (163328, 257)
 'render_galleries:output\\galleries\\rss.xml', (757760, 7888)
 'redirect', (167936, 56)
