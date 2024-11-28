@@ -1,4 +1,4 @@
-Sitemap: https://youngquan.github.io/sitemapindex.xml
+Sitemap: https://youngquan.site/sitemapindex.xml
 
 User-Agent: *
-Host: youngquan.github.io
+Host: youngquan.site
