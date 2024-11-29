@@ -48,7 +48,7 @@
 'render_sources:output\\posts\\welcome-to-nikola\\index.rst', (60928, 229)
 'copy_assets:output\\assets\\css\\bootstrap.min.css', (276480, 823)
 'copy_assets:output\\assets\\css\\bootblog.css', (274432, 794)
-'render_galleries:output\\galleries\\demo\\index.html', (598016, 10930)
+'render_galleries:output\\galleries\\demo\\index.html', (598016, 10932)
 'render_pages:output\\pages\\quickref\\index.html', (711680, 9639)
 'render_galleries:output\\galleries\\demo\\tesla_lightning1_lg.jpg', (73728, 302)
 'render_taxonomies:output\\categories\\blog\\index.html', (74240, 2572)
@@ -198,3 +198,4 @@
 'render_pages:output\\posts\\2022\\07\\wu-ding-de-bi-ran\\index.html', (1059840, 4264)
 'render_sources:output\\posts\\2022\\07\\wu-ding-de-bi-ran\\index.md', (1064448, 281)
 'render_posts:cache\\posts\\2022\\07\\wu-ding-de-bi-ran.html', (1095680, 412)
+'copy_files:output\\CNAME', (1118720, 232)
