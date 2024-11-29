@@ -29,5 +29,3 @@
 ![me at pycon china 2024](/images/me_at_pychina_2024.jpg "Me at pycon china 2024")
 ![lucky with aber and frostming](/images/lucky_with_aber_and_frostming.jpg "Lucky with aber and frostming")
 ![group photo 2024](/images/group_photo_2024.jpg "Group photo 2024")
-
-![test](https://img.xiumi.us/xmi/ua/4KVal/i/8ef02932afd10cdad25ad3a70f1d64b5-sz_2525961.jpg?x-oss-process=style/xmwebp "test")
