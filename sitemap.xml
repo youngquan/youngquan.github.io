@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://youngquan.site/</loc>
-  <lastmod>2024-11-28T13:47:00Z</lastmod>
+  <lastmod>2024-11-29T08:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://youngquan.site/2022/</loc>
@@ -23,7 +23,7 @@
  </url>
  <url>
   <loc>https://youngquan.site/archive.html</loc>
-  <lastmod>2024-11-28T13:56:00Z</lastmod>
+  <lastmod>2024-12-02T09:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://youngquan.site/categories/</loc>
@@ -59,15 +59,19 @@
  </url>
  <url>
   <loc>https://youngquan.site/galleries/</loc>
-  <lastmod>2023-04-20T15:09:00Z</lastmod>
+  <lastmod>2024-12-03T14:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://youngquan.site/galleries/demo/</loc>
   <lastmod>2023-04-20T15:09:00Z</lastmod>
  </url>
  <url>
+  <loc>https://youngquan.site/galleries/yuzui/</loc>
+  <lastmod>2024-12-03T14:02:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://youngquan.site/index-1.html</loc>
-  <lastmod>2024-11-28T13:56:00Z</lastmod>
+  <lastmod>2024-12-02T09:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://youngquan.site/listings/</loc>
@@ -75,7 +79,7 @@
  </url>
  <url>
   <loc>https://youngquan.site/listings/hello.py.html</loc>
-  <lastmod>2024-11-28T13:56:00Z</lastmod>
+  <lastmod>2024-12-02T09:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://youngquan.site/pages/about-nikola/</loc>
